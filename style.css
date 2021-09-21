@@ -1,0 +1,16 @@
+p, h1, h2 {
+    margin: auto;
+    
+}
+h1 { 
+    background-color: black;
+    color: rgb(47, 255, 82);
+ }
+h2 { 
+    background-color: black;
+    color: rgb(172, 255, 47);
+ }
+p { 
+    background-color: black;
+    color: green;
+ }
